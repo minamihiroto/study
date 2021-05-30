@@ -18,10 +18,10 @@
 
 ## AWS
 - [AWSでワードプレスの環境を構築](https://zenn.dev/minami_hiroto/articles/cd68ae6116e579)
-- [備忘録：VPCについて](https://zenn.dev/minami_hiroto/articles/5afee969b8ea74)
-- [備忘録：EC2,EBSについて](https://zenn.dev/minami_hiroto/articles/44a1a5824b0a5d)
-- [備忘録：IAM,RDSについて](https://zenn.dev/minami_hiroto/articles/e6989e0083648d)
-- [備忘録：ELBについて](https://zenn.dev/minami_hiroto/articles/3ea2485a250fc0)
+- [VPCについて](https://zenn.dev/minami_hiroto/articles/5afee969b8ea74)
+- [EC2,EBSについて](https://zenn.dev/minami_hiroto/articles/44a1a5824b0a5d)
+- [IAM,RDSについて](https://zenn.dev/minami_hiroto/articles/e6989e0083648d)
+- [ELBについて](https://zenn.dev/minami_hiroto/articles/3ea2485a250fc0)
 
 ## 書籍
 - [書籍「More Effective Agile」を読んだので"超ざっくり"でまとめてみた](https://zenn.dev/minami_hiroto/articles/4cbc6c4b24fe67b34bbb)
