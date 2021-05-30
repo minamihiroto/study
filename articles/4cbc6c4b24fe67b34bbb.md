@@ -1,6 +1,6 @@
 ---
-title: "書籍「More Effective Agile」を読んだので"超ざっくり"でまとめてみた"
-emoji: "🐡"
+title: "test"
+emoji: "💬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["チーム開発"]
 published: true
