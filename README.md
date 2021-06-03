@@ -24,6 +24,7 @@
 - [ELBについて](https://zenn.dev/minami_hiroto/articles/3ea2485a250fc0)
 - [CloudWatch,AutoScalingについて](https://zenn.dev/minami_hiroto/articles/3aeb48c6b76eaf738e45)
 - [S3,Route53について](https://zenn.dev/minami_hiroto/articles/5a9b3158a699de86ea2f)
+- [AWS CLIについて](https://zenn.dev/minami_hiroto/articles/201b97cdf7cf60b4644e)
 
 ## 書籍
 - [書籍「More Effective Agile」を読んだので"超ざっくり"でまとめてみた](https://zenn.dev/minami_hiroto/articles/4cbc6c4b24fe67b34bbb)
