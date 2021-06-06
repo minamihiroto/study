@@ -29,6 +29,7 @@
 ## 書籍
 - [書籍「More Effective Agile」を読んだので"超ざっくり"でまとめてみた](https://zenn.dev/minami_hiroto/articles/4cbc6c4b24fe67b34bbb)
 - [書籍「チームジャーニー」を読んだので"超ざっくり"でまとめてみた](https://zenn.dev/minami_hiroto/articles/ec6c9b56c47ec0)
+- [書籍「オブジェクト指向でなぜつくるのか第2版」を読んだので"超ざっくり"でまとめてみた](https://zenn.dev/minami_hiroto/articles/ceb38e306fe4b37e28df)
 
 ## 連携
 - ["OAuth2.0"についての備忘録](https://zenn.dev/minami_hiroto/articles/5966430ffd190d)
@@ -37,7 +38,6 @@
 - [セキュリティの話でよく出てくる単語たちを簡単にまとめる](https://zenn.dev/minami_hiroto/articles/8acdde55c497a4)
 
 ## メモ
-
 - [メモ：シェルスクリプト書き方GitHubで開く](https://zenn.dev/minami_hiroto/articles/e4f73b696fe5e6)
 
 
