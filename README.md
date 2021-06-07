@@ -9,6 +9,11 @@
 ## Git
 - [mixiさんの新卒研修が公開されてたから自分用備忘録としてまとめた\~Git\~](https://zenn.dev/minami_hiroto/articles/7e2d8741ce2b7f)
 
+## コーディング
+
+
+## 環境構築
+- [パッケージについて](https://zenn.dev/minami_hiroto/articles/5ee01f29bc3afafbb576)
 
 
 ## データベース
