@@ -8,13 +8,14 @@
 
 ## Git
 - [mixiさんの新卒研修が公開されてたから自分用備忘録としてまとめた\~Git\~](https://zenn.dev/minami_hiroto/articles/7e2d8741ce2b7f)
+- [新卒一年目の自分がよく使うgitコマンド](https://zenn.dev/minami_hiroto/articles/8711d988925afff6df52)
 
 ## コーディング
 
 
 ## 環境構築
 - [パッケージについて](https://zenn.dev/minami_hiroto/articles/5ee01f29bc3afafbb576)
-
+- [Dockerについてザーッとさらう](https://zenn.dev/minami_hiroto/articles/424ae83b74d142a5f1ad)
 
 ## データベース
 - [SQLBoltを解きながら覚えるクエリ文](https://zenn.dev/minami_hiroto/articles/be6c2121ac571e)
@@ -41,6 +42,10 @@
 
 ## セキュリティ
 - [セキュリティの話でよく出てくる単語たちを簡単にまとめる](https://zenn.dev/minami_hiroto/articles/8acdde55c497a4)
+- [暗号化技術について](https://zenn.dev/minami_hiroto/articles/fc07c4fec6393cbce583)
+
+## ハード周り
+- [OSで使われているプロセスについて](https://zenn.dev/minami_hiroto/articles/96459c1e446de157ae99)
 
 ## メモ
 - [メモ：シェルスクリプト書き方GitHubで開く](https://zenn.dev/minami_hiroto/articles/e4f73b696fe5e6)
