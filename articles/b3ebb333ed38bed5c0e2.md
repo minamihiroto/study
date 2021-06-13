@@ -3,8 +3,9 @@ title: "GOの勉強を始める"
 emoji: "🦫"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GO"]
-published: false
+published: true
 ---
+随時更新
 
 [ここにコード類は載せてるよ](https://github.com/minamihiroto/go_plactice)
 
@@ -34,3 +35,12 @@ published: false
 - [関数について２](https://github.com/minamihiroto/GO/tree/58734db44fba8e8b2e980f2afc2ea73213c29477)
 
 # 基礎~A Tour of Go~
+- [複数戻り値について](https://github.com/minamihiroto/GO/tree/92fc074b84c597a704b8f4c39a1ac282ec245441)
+- [戻り値に名前をつける](https://github.com/minamihiroto/GO/tree/7c2e85834244d92325a2ba937bea4d0f695c27bf)
+変数について
+  - 関数外で定義する際はキーワードではじまる宣言( var, func, など)が必要、:=ではだめ
+  - 変数に初期値を与えないとゼロ値( zero value )が与えられる 👉nullではない
+    - 数値型は0
+    - bool型はfalse
+    - string型は""(空文字)
+- [定数について](https://github.com/minamihiroto/GO/tree/f7caa67bd3fbf6c82d110bf892b750a0f184d845)
