@@ -7,11 +7,11 @@ published: true
 ---
 随時更新
 
-[ここにコード類は載せてるよ](https://github.com/minamihiroto/go_plactice)
+[ここにコード類は載せてるよ](https://github.com/minamihiroto/GO)
 
 # 環境構築
-1. dockerfileを作成
-2. docker-compose.ymlを作成
+1. [dockerfileを作成](https://github.com/minamihiroto/GO/blob/3cbf0cfa1fd4cb8bab6666e2a9d8ab6e929a1461/app/dockerfile)
+2. [docker-compose.ymlを作成](https://github.com/minamihiroto/GO/blob/3cbf0cfa1fd4cb8bab6666e2a9d8ab6e929a1461/docker-compose.yml)
 3. vscodeのソース管理タブで"GitHubに公開"を選択し、リポジトリ名を決めpush
   - リモートで`git init`、ローカルで`git init`、`git add .`、`git commit -m "first commit"`、`git remote add origin https://github.com~~~~`、`git push`まで自動で行われる
 4. [masterからmainに変更する（githubのリモート＆ローカルブランチ）branches](https://qiita.com/masakinihirota/items/1a657674e609be112fc6)
