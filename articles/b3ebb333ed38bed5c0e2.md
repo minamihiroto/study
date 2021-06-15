@@ -24,7 +24,7 @@ published: true
 3. `docker-compose exec app go run main.go`
   - `docker-compose run app go run main.go`ならdockercomposeが起動していなくても実行できる
 
-# 基礎~progate~
+# 基礎初級~progate~
 - [変数について](https://github.com/minamihiroto/GO/tree/3cbf0cfa1fd4cb8bab6666e2a9d8ab6e929a1461)
 - [条件分岐について](https://github.com/minamihiroto/GO/tree/48e171bdeeb1c7f08999a99a0957d1e3e4bc4d63)
 - [Printfの基礎について](https://github.com/minamihiroto/GO/tree/11bcab89ccdf9cd9d268291a5e5aa6f43441e912)
@@ -34,7 +34,7 @@ published: true
 - [関数について１](https://github.com/minamihiroto/GO/tree/7d562ab99b4288d051bf8ac8c0a0004124eaa8db)
 - [関数について２](https://github.com/minamihiroto/GO/tree/58734db44fba8e8b2e980f2afc2ea73213c29477)
 
-# 基礎~A Tour of Go~
+# 基礎初級~A Tour of Go~
 - [複数戻り値について](https://github.com/minamihiroto/GO/tree/92fc074b84c597a704b8f4c39a1ac282ec245441)
 - [戻り値に名前をつける](https://github.com/minamihiroto/GO/tree/7c2e85834244d92325a2ba937bea4d0f695c27bf)
 変数について
@@ -44,3 +44,10 @@ published: true
     - bool型はfalse
     - string型は""(空文字)
 - [定数について](https://github.com/minamihiroto/GO/tree/f7caa67bd3fbf6c82d110bf892b750a0f184d845)
+- [importをまとめる](https://github.com/minamihiroto/GO/tree/e43d47b9005c0f356be4772aa84adbc18c0150db)
+
+# 基礎中級~progate~
+- []()
+
+# 基礎中級~A Tour of Go~
+- []()
