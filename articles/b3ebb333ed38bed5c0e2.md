@@ -50,13 +50,15 @@ published: true
 変数はコンピュータの**メモリ**に保存され、その場所を**アドレス**と呼ぶ
 👉アドレスは16進数で表され、他の変数に代入することもできる
 👉GOではアドレスを**ポインタ**と呼び扱っている
-- []()
+- [ポインタについて](https://github.com/minamihiroto/GO/tree/64126df15f7ad1413bd0703e7ccd24d5b84309dc)
 ポインタが代入された変数を**ポインタ型変数**と呼ぶ
 ポインタ型は「*変数の型」で定義できる
 - 変数に**&**をつける👉"ポインタ"を出力できる
 - ポインタ型変数に*****をつける👉"ポインタが示す変数の値"を出力できる
-
-
+- [ポインタ型変数について](https://github.com/minamihiroto/GO/tree/9b8c8b8343225a75df0b40647eef91d64d6cd4bb)
+- [関数をまたぐポインタについて](https://github.com/minamihiroto/GO/tree/904fee69f8d5d2c18b603898423be614cb09f3d1)
+- [引数のポインタについて１](https://github.com/minamihiroto/GO/tree/27170077493140e787924bd64691292220fd13a2)
+- [引数のポインタについて２](https://github.com/minamihiroto/GO/tree/65264a7de4dcbaab173d51150c764011ddd13b8d)
 
 # 基礎中級~A Tour of Go~
 - []()
