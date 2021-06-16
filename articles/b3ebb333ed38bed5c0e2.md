@@ -53,8 +53,8 @@ published: true
 - [ポインタについて](https://github.com/minamihiroto/GO/tree/64126df15f7ad1413bd0703e7ccd24d5b84309dc)
 ポインタが代入された変数を**ポインタ型変数**と呼ぶ
 ポインタ型は「*変数の型」で定義できる
-- 変数に**&**をつける👉"ポインタ"を出力できる
-- ポインタ型変数に*****をつける👉"ポインタが示す変数の値"を出力できる
+- 変数に"&"をつける👉"ポインタ"を出力できる
+- ポインタ型変数に"*"をつける👉"ポインタが示す変数の値"を出力できる
 - [ポインタ型変数について](https://github.com/minamihiroto/GO/tree/9b8c8b8343225a75df0b40647eef91d64d6cd4bb)
 - [関数をまたぐポインタについて](https://github.com/minamihiroto/GO/tree/904fee69f8d5d2c18b603898423be614cb09f3d1)
 - [引数のポインタについて１](https://github.com/minamihiroto/GO/tree/27170077493140e787924bd64691292220fd13a2)
