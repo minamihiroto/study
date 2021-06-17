@@ -61,4 +61,8 @@ published: true
 - [引数のポインタについて２](https://github.com/minamihiroto/GO/tree/65264a7de4dcbaab173d51150c764011ddd13b8d)
 
 # 基礎中級~A Tour of Go~
-- []()
+- [構造体について](https://github.com/minamihiroto/GO/tree/19e034f8fa2c68a7f3137481009f2cb1bd1b769c)
+- [レシーバについて](https://github.com/minamihiroto/GO/tree/b26bb9f21b476b976dd1f2809d54aeefe9cf7c06)
+- [メソッドについて](https://github.com/minamihiroto/GO/tree/22bf584153a174aaa5071bc646a253b1f90417f1)
+- [レシーバを引数にとる関数について](https://github.com/minamihiroto/GO/tree/8016f8dddc0244917ef3ff8a08b6cc366c6eeaa9)
+- [型の別名作成について](https://github.com/minamihiroto/GO/tree/5cddec50052c297908cd4e2135282c6b35f9410e)
