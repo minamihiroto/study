@@ -66,3 +66,4 @@ published: true
 - [メソッドについて](https://github.com/minamihiroto/GO/tree/22bf584153a174aaa5071bc646a253b1f90417f1)
 - [レシーバを引数にとる関数について](https://github.com/minamihiroto/GO/tree/8016f8dddc0244917ef3ff8a08b6cc366c6eeaa9)
 - [型の別名作成について](https://github.com/minamihiroto/GO/tree/5cddec50052c297908cd4e2135282c6b35f9410e)
+- [ポインタレシーバをメソッドに適用する方法について・改](https://github.com/minamihiroto/GO/tree/b574710faf9fb657c7538bfda9a0cd2fcd608691)
