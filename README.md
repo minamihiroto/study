@@ -2,8 +2,7 @@
 
 ## ネットワーク
 - [そろそろ理解しよう"セッション"と"クッキー"](https://zenn.dev/minami_hiroto/articles/328b5a316b1055)
-- [TCP/IPモデルとは](https://zenn.dev/minami_hiroto/articles/9780c71c2944f8)
-- [OSI参照モデルとは](https://zenn.dev/minami_hiroto/articles/220306d186f5b2)
+- [OSI参照モデルとTCP/IPモデルについて](https://zenn.dev/minami_hiroto/articles/9780c71c2944f8)
 - [IPまわりについてのおさらい](https://zenn.dev/minami_hiroto/articles/6b22d054762b60)
 
 ## Git
@@ -19,7 +18,7 @@
 - [Dockerについてザーッとさらう](https://zenn.dev/minami_hiroto/articles/424ae83b74d142a5f1ad)
 
 ## データベース
-- [SQLBoltを解きながら覚えるクエリ文](https://zenn.dev/minami_hiroto/articles/be6c2121ac571e)
+- [新卒研修で触ったクエリ文](https://zenn.dev/minami_hiroto/articles/be6c2121ac571e)
 - [mixiさんの新卒研修が公開されてたから自分用備忘録としてまとめた\~データベース\~](https://zenn.dev/minami_hiroto/articles/b6c85d2319bb75)
 
 
