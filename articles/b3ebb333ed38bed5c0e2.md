@@ -67,3 +67,10 @@ published: true
 - [レシーバを引数にとる関数について](https://github.com/minamihiroto/GO/tree/8016f8dddc0244917ef3ff8a08b6cc366c6eeaa9)
 - [型の別名作成について](https://github.com/minamihiroto/GO/tree/5cddec50052c297908cd4e2135282c6b35f9410e)
 - [ポインタレシーバをメソッドに適用する方法について・改](https://github.com/minamihiroto/GO/tree/b574710faf9fb657c7538bfda9a0cd2fcd608691)
+- [インターフェースについて](https://github.com/minamihiroto/GO/tree/dcaf07307103e70905aeb6179ac326801725258d)
+nilはポインター、インターフェイス、マップ、スライス、チャネル、および関数タイプのゼロ値である
+- [nilについて](https://github.com/minamihiroto/GO/tree/a9101c250496d8379ccaeb297d92b494bde4bbc2)
+アサーションは2つの値(基になる値とアサーションが成功したかどうかを報告するブール値)を返す
+- [型アサーションについて](https://github.com/minamihiroto/GO/tree/bf9ad12f0b8eee35e478376293ae670317f80858)
+- [型switchについて](https://github.com/minamihiroto/GO/tree/1251f9ecf6b2ceec6d303cb68de0a52afa513288)
+- [Stringersについて](https://github.com/minamihiroto/GO/tree/0f631c975ebe16e70d631c77db53fe39b5e1e47f)
