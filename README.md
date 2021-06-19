@@ -8,7 +8,8 @@
 
 ## Git
 - [mixiさんの新卒研修が公開されてたから自分用備忘録としてまとめた\~Git\~](https://zenn.dev/minami_hiroto/articles/7e2d8741ce2b7f)
-- [新卒一年目の自分がよく使うgitコマンド](https://zenn.dev/minami_hiroto/articles/8711d988925afff6df52)
+- [新卒一年目の自分がよく悩むgitの使い方①](https://zenn.dev/minami_hiroto/articles/8711d988925afff6df52)
+- [新卒一年目の自分がよく悩むgitの使い方②](https://zenn.dev/minami_hiroto/articles/b6bc904a4663484491b6)
 
 ## コーディング
 
