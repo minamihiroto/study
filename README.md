@@ -15,6 +15,7 @@
 - [CloudWatch,AutoScalingについて](https://zenn.dev/minami_hiroto/articles/3aeb48c6b76eaf738e45)
 - [S3,Route53について](https://zenn.dev/minami_hiroto/articles/5a9b3158a699de86ea2f)
 - [AWS CLIについて](https://zenn.dev/minami_hiroto/articles/201b97cdf7cf60b4644e)
+- [ACM,CloudFrontについて](https://zenn.dev/minami_hiroto/articles/11473557f9825709b6d9)
 
 ## 環境構築
 - [パッケージについて](https://zenn.dev/minami_hiroto/articles/5ee01f29bc3afafbb576)
@@ -48,9 +49,3 @@
 
 ## 連携
 - ["OAuth2.0"についての備忘録](https://zenn.dev/minami_hiroto/articles/5966430ffd190d)
-
-
-
-### zenn
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
-* [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)
