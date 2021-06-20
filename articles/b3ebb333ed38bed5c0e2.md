@@ -1,5 +1,5 @@
 ---
-title: "GOの勉強を始める"
+title: "GOlang入門"
 emoji: "🦫"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GO"]
