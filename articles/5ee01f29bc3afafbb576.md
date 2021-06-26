@@ -24,7 +24,7 @@ published: true
 | node.js | npm,(yarn) | package.json,(yarn.lock) |
 | PHP | Composer | composer.json |
 | Ruby | RubyGems | ---- |
-| Go | go get | ---- |
+| Go | Modules | ---- |
 
 👉node.jsのパッケージ管理システムはyarnの方が速い
 
