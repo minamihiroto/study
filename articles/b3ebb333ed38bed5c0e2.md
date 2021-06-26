@@ -74,3 +74,30 @@ nilはポインター、インターフェイス、マップ、スライス、�
 - [型アサーションについて](https://github.com/minamihiroto/GO/tree/bf9ad12f0b8eee35e478376293ae670317f80858)
 - [型switchについて](https://github.com/minamihiroto/GO/tree/1251f9ecf6b2ceec6d303cb68de0a52afa513288)
 - [Stringersについて](https://github.com/minamihiroto/GO/tree/0f631c975ebe16e70d631c77db53fe39b5e1e47f)
+
+# Moduleについて
+（modファイル作る前からfmtとか使えたけどなぜなのか）
+Goのパッケージ管理システム
+
+go.modファイルを作成する
+`$ go mod init 命名`
+
+パッケージのインストール方法
+go.sumファイルが作られ、これにはパッケージのバージョンとそのhash値が入っている
+👉 npmでいうpackage.lock.jsonみたいなもの
+`$ go get -u インストールしたいパッケージ`
+👉 -uをつけることで、パッケージとその依存パッケージをネットワークから更新できる
+
+未使用のパッケージを削除する
+`$ go mod tidy -v`
+👉 -vをつけることで、削除されたパッケージ情報を出力できる
+
+
+先にmain.goにimportされていないパッケージを記述しておいて、コマンドでインストールする
+`$ go build`
+👉 本来はコンパイルする為に使われるコマンド
+👉 コンパイル後はバイナリファイルが生成され、ファイル名を指定しただけでGOが走る(runする)
+👉 バイナリファイルはgo.modにあるmodule名になる
+
+環境変数を表示
+`$ go env`
