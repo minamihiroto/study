@@ -101,3 +101,15 @@ go.sumファイルが作られ、これにはパッケージのバージョン�
 
 環境変数を表示
 `$ go env`
+
+# スターティングGo言語
+- [パッケージと構成について１](https://github.com/minamihiroto/GO/tree/9229b417e01e8ab89561be08430b6955668490d5)
+  - Goは1つのディレクトリには1つのパッケージのみ定義可能であり、複数のパッケージ定義を同一のディレクトリ内に置くことはできない
+- [パッケージと構成について２](https://github.com/minamihiroto/GO/tree/9b5127d27f95bcf85c015ece44512d4bca5b88cc)
+  - mainパッケージの分割
+  - `$ go run main.go app.go`か`$ go run *.go`で実行
+- [パッケージと構成について３`]()
+  - Goにはパッケージの機能をテストする機能がある
+  - testingにテストを行うためのさまざまな関数がある
+    - 今回使ってるのはErrorf()
+  - `$ go test module名/ディレクトリ名`でテストを実行
