@@ -108,8 +108,10 @@ go.sumファイルが作られ、これにはパッケージのバージョン�
 - [パッケージと構成について２](https://github.com/minamihiroto/GO/tree/9b5127d27f95bcf85c015ece44512d4bca5b88cc)
   - mainパッケージの分割
   - `$ go run main.go app.go`か`$ go run *.go`で実行
-- [パッケージと構成について３`]()
+- [パッケージと構成について３](https://github.com/minamihiroto/GO/tree/40ad23ea84356b481a1e2f32fd69769ca360ab4d)
+- [パッケージと構成について３`](https://github.com/minamihiroto/GO/tree/523b320a1b3a9fac12b09a87f916497ddfced1b9)
   - Goにはパッケージの機能をテストする機能がある
   - testingにテストを行うためのさまざまな関数がある
     - 今回使ってるのはErrorf()
   - `$ go test module名/ディレクトリ名`でテストを実行
+- [変数の暗黙的宣言のスコープについて](https://github.com/minamihiroto/GO/tree/b28a131718bac2e3f57df66a42774fc05d32ee6f)
