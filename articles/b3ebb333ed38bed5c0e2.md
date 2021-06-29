@@ -115,3 +115,17 @@ go.sumファイルが作られ、これにはパッケージのバージョン�
     - 今回使ってるのはErrorf()
   - `$ go test module名/ディレクトリ名`でテストを実行
 - [変数の暗黙的宣言のスコープについて](https://github.com/minamihiroto/GO/tree/b28a131718bac2e3f57df66a42774fc05d32ee6f)
+- [複数行にまたがる文字列について](https://github.com/minamihiroto/GO/tree/d59880e0ba63a31093f46be7ff9d01ba5c95cfb7)
+- [配列について１](https://github.com/minamihiroto/GO/tree/8cc5a8471ede60b89de6b095a1358e8db03d06d8)
+  - [要素数]要素の型 で一つの型として認識している
+    - [5]int !== [3]int
+    - [5]int === [5]int
+- [配列について２](https://github.com/minamihiroto/GO/tree/e1d77346102652ddb42fa34b902b71a922dff055)
+  - Goの配列型は拡張、縮小は不可能
+  - 要素数は一定 👉 可変式にしたいなら**スライス**というデータ構造を使う
+- [関数の戻り値について](https://github.com/minamihiroto/GO/tree/5ad88141ab87aef621d66106d74b56588f76293c)
+  - 割り振り代入 👉 複数の戻り値を一気に変数に代入すること
+  - 戻り値の破棄 👉 複数の戻り値のうち、いらない値を破棄して戻り値を受け取ること
+- [無名関数について](https://github.com/minamihiroto/GO/tree/d197b99513a20e00d6940e73d01f8d338a8a10a5)
+- [関数の別名について](https://github.com/minamihiroto/GO/tree/6d0f0c30f82aedaf06d4a18fd9c7efc7923c5d83)
+- [クロージャについて]()
