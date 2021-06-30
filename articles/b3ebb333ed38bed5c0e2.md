@@ -128,4 +128,6 @@ go.sumファイルが作られ、これにはパッケージのバージョン�
   - 戻り値の破棄 👉 複数の戻り値のうち、いらない値を破棄して戻り値を受け取ること
 - [無名関数について](https://github.com/minamihiroto/GO/tree/d197b99513a20e00d6940e73d01f8d338a8a10a5)
 - [関数の別名について](https://github.com/minamihiroto/GO/tree/6d0f0c30f82aedaf06d4a18fd9c7efc7923c5d83)
-- [クロージャについて]()
+- [クロージャについて](https://github.com/minamihiroto/GO/tree/b2976a8837d9a9ed194be1847d9281ba074387c1)
+  -**無名関数**と**無名関数の処理に関係する無名関数外の環境**のことをクロージャという
+- []()
