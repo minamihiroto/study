@@ -144,6 +144,23 @@ go.sumファイルが作られ、これにはパッケージのバージョン�
     -  **{ ... }** で囲われたソースコード群
   - 制御構文
 - [パッケージ名上書きについて](https://github.com/minamihiroto/GO/tree/57ec196cc05b94e71da6c8a1ffd70528a12adfa7)  
-- [制御構文１]()
-- [制御構文２]()
-- [スライスについて]()
+- [if,forについて](https://github.com/minamihiroto/GO/tree/8c3d01f6a3a3e8610fe5dadffc50adfce2737065)
+- [配列のfor文表示について](https://github.com/minamihiroto/GO/tree/b2121c84d7432ea5d697e754a9478a71ce1345c1)
+- [switchについて](https://github.com/minamihiroto/GO/tree/041092deac4b6d8e34e64502a8683577d7fb1c8c)
+  - 簡易文は変数の局所性を高める働きがあるため、積極的に使っていく
+- [goto文について]()
+  - ほとんど使うことがない
+- [ラベル付き文について]()
+- [deferについて]()
+  - 定義されるものは関数呼び出しの形式に限られる
+  - 例1
+```go
+  defer fmt.Println("A")//関数呼び出しの形式 👉 最後に()がつく
+```
+  - 例2
+```go
+  defer func(){
+    fmt.Println("A")
+    fmt.Println("B")
+    }() //関数呼び出しの形式 👉 最後に()がつく
+```
