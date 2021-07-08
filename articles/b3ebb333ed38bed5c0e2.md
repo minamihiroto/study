@@ -148,19 +148,24 @@ go.sumファイルが作られ、これにはパッケージのバージョン�
 - [配列のfor文表示について](https://github.com/minamihiroto/GO/tree/b2121c84d7432ea5d697e754a9478a71ce1345c1)
 - [switchについて](https://github.com/minamihiroto/GO/tree/041092deac4b6d8e34e64502a8683577d7fb1c8c)
   - 簡易文は変数の局所性を高める働きがあるため、積極的に使っていく
-- [goto文について]()
+- [goto文について](https://github.com/minamihiroto/GO/tree/6d4958942d8549178746cb48543cb4da7e169ac6)
   - ほとんど使うことがない
-- [ラベル付き文について]()
-- [deferについて]()
+- [ラベル付き文について](https://github.com/minamihiroto/GO/tree/064676e9e986947acbba8562bfa934cef738e75c)
+- [deferについて](https://github.com/minamihiroto/GO/tree/b58ff1e8c907fa29e802aed1d00761d293d8c0c8)
   - 定義されるものは関数呼び出しの形式に限られる
-  - 例1
+  - 例
 ```go
   defer fmt.Println("A")//関数呼び出しの形式 👉 最後に()がつく
 ```
-  - 例2
 ```go
   defer func(){
     fmt.Println("A")
     fmt.Println("B")
     }() //関数呼び出しの形式 👉 最後に()がつく
 ```
+- [panicとrecoverについて](https://github.com/minamihiroto/GO/tree/2a4797ba212d256e8ce83e319a8242b974122ec0)
+  - 一種の例外処理を実現するものだが、goを強制的に停止させる機能を持つため多用するものではない
+  - この仕組みを利用しているプロダクトはわずか
+  - panic文が定義されているところまでは処理が走る
+- [go文について]()
+- [initについて]()
