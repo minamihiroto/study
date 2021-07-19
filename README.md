@@ -37,6 +37,7 @@
 ## コーディング
 - [GOlang入門](https://zenn.dev/minami_hiroto/articles/b3ebb333ed38bed5c0e2)
 - [書き方でわかるコールバック関数とthenメソッドとasync/awaitの書き方](https://zenn.dev/minami_hiroto/articles/532d4a393feecb)
+
 ## データベース
 - [mixiさんの新卒研修が公開されてたから自分用備忘録としてまとめた\~データベース\~](https://zenn.dev/minami_hiroto/articles/b6c85d2319bb75)
 - [新卒研修で触ったクエリ文①](https://zenn.dev/minami_hiroto/articles/be6c2121ac571e)
