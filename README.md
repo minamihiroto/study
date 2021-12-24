@@ -50,3 +50,6 @@
 
 ## 連携
 - ["OAuth2.0"についての備忘録](https://zenn.dev/minami_hiroto/articles/5966430ffd190d)
+
+#### 記事作成のコード
+`$ npx zenn new:article`
