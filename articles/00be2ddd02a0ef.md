@@ -5,9 +5,9 @@ type: "tech"
 topics: [Google Colaboratory,Google Colab,"GPT","GPT3","fine-tuning","ファインチューニング","chatGPT"]
 published: true
 ---
-自分はOpenAI APIの無料期間内に行ったため、期間後の課金設定が必要かは知らない（多分いる）
+自分はOpenAI APIの無料期間内に行ったため、期間後の課金設定が必要かどうかはわかりません（多分いる）
 
-とりあえず公式の情報をみて、JSONのデータセットを用意しておく。
+とりあえず公式の情報をみて、JSONのデータセットを用意しておきましょう
 https://platform.openai.com/docs/guides/fine-tuning
 
 ```JSON
@@ -16,16 +16,16 @@ https://platform.openai.com/docs/guides/fine-tuning
 {"prompt": "<prompt text>", "completion": "<ideal generated text>"}
 ```
 
-「data.json」としてファイルを保持して進める
+「data.json」としてファイルを保持して進めます
 ![イメージ1](/images/example-image1.png)
 
-そしたら早速コードを書いていく
-とりあえずいつものようにoprnaiをpip installする
+早速コードを書いていきます
+とりあえずいつものようにoprnaiをpip installします
 ```python
 !pip install --upgrade openai -q
 ```
 
-その次に必要なライブラリとAPIキーの設定
+その次に必要なライブラリとAPIキーの設定をします
 ```python
 import openai
 import requests
@@ -33,18 +33,18 @@ import json
 openai.api_key = "<APIキー>"
 ```
 
-ここでdata.jsonを学習用の拡張子jsonlに変換する必要があるので、下記コマンドを記述
+ここでdata.jsonを学習用の拡張子jsonlに変換する必要があるので、下記コマンドを記述します
 ```python
 !openai tools fine_tunes.prepare_data -f data.json
 ```
 
-実行すると途中で[Recommended] ...のような記載が返ってくるので、とりあえずYで進める
-（これはデータの記述をええ感じにしてくれるやつなので、基本YでOK、こだわりあるならnで無視しよう）
+実行すると途中で[Recommended] ...のような記載が返ってくるので、とりあえずYで進めます
+（これはデータの記述をええ感じにしてくれるやつなので、基本YでOK、こだわりあるならnで無視しましょう）
 
-成功するとdata.jsonファイルの下に、data_prepared.jsonlというファイルができているのが確認できる
-これで下準備が終わったので、早速ファインチューニングを試すことにする
+成功するとdata.jsonファイルの下に、data_prepared.jsonlというファイルができているのが確認できると思います
+これで下準備が終わったので、早速ファインチューニングを試します
 
-これで実行！....
+実行！....
 ```python
 %env OPENAI_API_KEY=APIキー
 !openai api fine_tunes.create -t "data_prepared.jsonl" -m "curie"
