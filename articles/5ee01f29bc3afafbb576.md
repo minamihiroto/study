@@ -2,7 +2,7 @@
 title: "パッケージについて"
 emoji: "📦"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["パッケージ管理システム","homeblue","yarn","npm"]
+topics: ["パッケージ管理システム","homebrew","yarn","npm"]
 published: true
 ---
 
@@ -19,7 +19,7 @@ published: true
 # 自分が今まで使ってきたパッケージ管理システム
 | システム | パッケージ管理システム | 設定ファイル、リポジトリ |
 | ---- | ---- | ---- |
-| Mac OS X | homebrew | ---- |
+| Mac OS X | Homebrew | ---- |
 | RedHat系Linux(CentOS) | rpm,Yum | ---- |
 | node.js | npm,(yarn) | package.json,(yarn.lock) |
 | PHP | Composer | composer.json |
